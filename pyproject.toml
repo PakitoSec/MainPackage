@@ -7,6 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+liba = {git = "https://github.com/PakitoSec/LibA.git"}
 
 
 [build-system]
